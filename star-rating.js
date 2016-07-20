@@ -92,7 +92,7 @@ StarRating.propTypes = {
   starColor: PropTypes.string,
   emptyStarColor: PropTypes.string,
   starSize: PropTypes.number,
-  ratingStyle: PropTypes.object,
+  ratingStyle: PropTypes.number,
 };
 
 StarRating.defaultProps = {
